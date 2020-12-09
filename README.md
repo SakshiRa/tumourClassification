@@ -1,6 +1,6 @@
 # Tumour Classification usign python and R. 
 
-## This repository classifies or two datasets, Breast cancer and colorectal cancer. 
+## This repository contains scritps for two datasets, Breast cancer and colorectal cancer. 
 
 Classification of breast cancer using scikit learn and sklearn in python language. 
 
